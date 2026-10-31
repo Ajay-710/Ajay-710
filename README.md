@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajay-710/ajay-710/gitascii/profiles/default/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajay-710/ajay-710/gitascii/profiles/default/light.svg">
-  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/ajay-710/ajay-710/gitascii/profiles/default/dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Ajay-710's GitHub profile" src="dark_mode.svg" />
 </picture>
